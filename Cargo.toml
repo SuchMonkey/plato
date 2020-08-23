@@ -1,0 +1,12 @@
+[package]
+name = "plato"
+version = "0.1.0"
+authors = ["David D. <suchmonkey@protonmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.1.3"
+bevy_fly_camera = "0.2.0"
+rand = "0.7.3"
